@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Vulnerabilidad de seguridad
+    url: https://github.com/arrimo-uy/.github/blob/main/SECURITY.md
+    about: No la reportes acá, escribinos por WhatsApp al +598 94 900 997

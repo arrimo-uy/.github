@@ -1,0 +1,9 @@
+name: Mejora
+description: Una idea o un cambio para el kit, las redes o la web
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes: { label: Qué problema resuelve }
+    validations: { required: true }
+  - type: textarea
+    attributes: { label: Propuesta }
